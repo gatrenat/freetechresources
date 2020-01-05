@@ -4,7 +4,7 @@ Recursos de programació
 
 Recursos relacionats amb l'aprenentatge de programació:
 
-* `Harvard CS50 <https://cs50.harvard.edu/college/2019/fall>`: Conceptes fonamentals per aprendre a programar. (*en*)
+* `Harvard CS50 <https://cs50.harvard.edu/college/2019/fall>`_: Conceptes fonamentals per aprendre a programar. (*en*)
 
 .. * Harvard CS50web teaches you web development in Python and Javascript and builds on the normal CS50
     The Odin Project teaches you full stakc Node.JS and Ruby. It's a tough course but very worth it
